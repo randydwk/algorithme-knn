@@ -1,11 +1,11 @@
-# Équipe I1
+# Algorithme KNN
 
 ## Membres du groupe
 
+Randy De Wancker  
 Théo Canoen  
 Florine Defossez  
 Léopold Varlamoff  
-Randy De Wancker  
 
 ## Prérequis
 
@@ -25,7 +25,7 @@ pour pouvoir lancer le projet.
 
 ## Voir les résultats de tests
 
-Toujours sur la branche [master](https://gitlab.univ-lille.fr/sae302/2022/equipe-I1) :
+Toujours sur la branche master :
 
 ```bash
 mvn clean test
