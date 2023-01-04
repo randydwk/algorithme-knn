@@ -1,0 +1,15 @@
+.vscode/
+target/
+bin/
+.project
+.classpath
+.settings/
+.metadata/
+.idea/
+.pmd
+.ruleset
+
+# fichiers temporaires libreoffice & office
+**/resources/**/*lock*
+Rapport/**/*.tmp
+Rapport/**/~$*
